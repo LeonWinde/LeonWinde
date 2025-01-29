@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning at web-developement at DCI 
+- 🌱 I’m currently learning web-developement at DCI 
 
